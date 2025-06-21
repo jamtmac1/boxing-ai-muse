@@ -5,3 +5,4 @@ An AI-powered boxing analytics web app inspired by StatMuse + Boxrec, built with
 ![image](https://github.com/user-attachments/assets/d252969a-ff1f-4af8-99f2-0e82d37ffc71)
 
 - Created CSV for top 100 fighters
+- Connected backend database through supabase
