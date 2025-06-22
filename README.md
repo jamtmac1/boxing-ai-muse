@@ -6,3 +6,4 @@ An AI-powered boxing analytics web app inspired by StatMuse + Boxrec, built with
 
 - Created CSV for top 100 fighters
 - Connected backend database through supabase
+- created duck web to track fighters history of turning down fights.
