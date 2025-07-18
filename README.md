@@ -9,4 +9,4 @@ An AI-powered boxing analytics web app inspired by StatMuse + Boxrec, built with
 - created duck web to track fighters history of turning down fights.
 - created next.js app
 - created wireframe
-- App logic configuration
+- App logic configurations
