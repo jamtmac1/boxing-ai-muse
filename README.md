@@ -12,3 +12,4 @@ will also feature dropship merchvia tapstitch
 - created next.js app
 - created wireframe
 - App logic configurations
+- explore Claude or Gemini data pulls versus boxrec
