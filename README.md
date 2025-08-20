@@ -1,7 +1,7 @@
 # boxing-ai-muse
 An AI-powered boxing analytics web app inspired by StatMuse + Boxrec, built with Next.js, Supabase, AWS and OpenAI. PunchStat.
 
-will also feature dropship merchvia tapstitch
+will also feature dropship merch via tapstitch
 
 # wire frame screenshot
 ![image](https://github.com/user-attachments/assets/d252969a-ff1f-4af8-99f2-0e82d37ffc71)
