@@ -12,5 +12,5 @@ will also feature dropship merch via tapstitch
 - created next.js app
 - created wireframe
 - App logic configurations
-- Explore Claude or Gemini data pulls versus boxrec
+- Explore Claude or Gemini data pulls versus boxrec.
 - Explore carfax as an equivalent.
