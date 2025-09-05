@@ -10,7 +10,7 @@ will also feature dropship merch via tapstitch
 - Connected backend database through supabase
 - created duck web to track fighters history of turning down fights.
 - created next.js app
-- created wireframe
+- created wireframe.
 - App logic configurations
 - Explore Claude or Gemini data pulls versus boxrec.
 - Explore carfax as an equivalent.
